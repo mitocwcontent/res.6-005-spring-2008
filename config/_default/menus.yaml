@@ -1,0 +1,5 @@
+leftnav:
+- identifier: 78226ffa-6ced-e850-f5eb-0c581e83157c
+  name: Related Courses
+  url: /pages/related-courses
+  weight: 10
